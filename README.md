@@ -8,12 +8,12 @@ Each table is represented using:
 
 Features
 
-Create tables with a dynamic schema
-Store table structure separately using schema files
-Insert records with schema-based data type validation
-Persistent storage using files (data survives program restarts)
-Display table data in a clean tabular format
-Select records with conditional filtering (WHERE clause)
-Delete records based on conditions (safe file rewrite)
-Drop entire tables (schema + data)
-Robust handling of invalid inputs and syntax errors
+✅ Create tables with a dynamic schema
+✅ Store table structure separately using schema files
+✅ Insert records with schema-based data type validation
+✅ Persistent storage using files (data survives program restarts)
+✅ Display table data in a clean tabular format
+✅ Select records with conditional filtering (WHERE clause)
+✅ Delete records based on conditions (safe file rewrite)
+✅ Drop entire tables (schema + data)
+✅ Robust handling of invalid inputs and syntax errors
