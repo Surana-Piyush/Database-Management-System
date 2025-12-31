@@ -3,8 +3,8 @@ A file-based Database Management System (DBMS) built from scratch in C++, design
 This project implements core DBMS concepts such as schema management, data persistence, command parsing, and basic query execution — without using any external database libraries.
 
 Each table is represented using:
-.schema file for structure (metadata)
-.data file for actual records
+- .schema file for structure (metadata)
+- .data file for actual records
 
 ## Features
 
